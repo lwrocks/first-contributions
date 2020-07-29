@@ -14,10 +14,11 @@
 - [Akash Chouhan](https://github.com/akashchouhan16)
 - [Govind K](https://github.com/GovindKurapati)
 - [Steven Dz](https://github.com/StevenDz)
-- [Jeremy Kim](https://github.com/jthk1106) -[Sumit Rana](https://github.com/sumitrana31)
+- [Jeremy Kim](https://github.com/jthk1106) 
+- [Sumit Rana](https://github.com/sumitrana31)
 - [Abdulloh](https://github.com/IbrohimMirxoshimov)
 - [Qasim Qlf](https://github.com/qasimqlf)
-- [Laurel Wright](https://github.com/lwrocks)
+- Laurel
 - CamChan
 - raymen
 - Zaynab Bawa (https://github.com/jenki98)
